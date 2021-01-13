@@ -10,7 +10,6 @@ Source code for the data generation and experiments in paper "Machine learning a
       primaryClass={quant-ph}
 }
 ```
-If you have questions, contact me at `stefano.martina@unifi.it`.
 
 ### Prerequisites
 * python 
